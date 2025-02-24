@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "antithetic",
+	"version": "${version}",
+	"name": "Antithetic",
+	"description": "This adds Form changes and required items to the game!",
+	"authors": [
+		"Lvnatic-T"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/Lvnatic-T/Antithetic"
+	},
+	"license": "CC BY-NC 4.0",
+	"icon": "assets/antithetic/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.lvnatic.antithetic.Antithetic"
+		],
+		"fabric-datagen": [
+			"net.lvnatic.antithetic.AntitheticDataGenerator"
+		],
+		"client": [
+			"net.lvnatic.antithetic.AntitheticClient"
+		]
+	},
+	"mixins": [
+		"antithetic.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
