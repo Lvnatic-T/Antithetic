@@ -90,6 +90,7 @@ public class ModItems {
     public static final Item LUSTROUSORB = registerItem("lustrousorb", new Item(new Item.Settings()));
     public static final Item REDORB = registerItem("redorb", new Item(new Item.Settings()));
 
+    public static final Item BLANKPLATE = registerItem("blankplate", new Item(new Item.Settings()));
     public static final Item DRACOPLATE = registerItem("dracoplate", new Item(new Item.Settings()));
     public static final Item DREADPLATE = registerItem("dreadplate", new Item(new Item.Settings()));
     public static final Item EARTHPLATE = registerItem("earthplate", new Item(new Item.Settings()));

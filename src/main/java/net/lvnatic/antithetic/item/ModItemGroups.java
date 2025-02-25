@@ -69,6 +69,7 @@ public class ModItemGroups {
             FabricItemGroup.builder().icon(() -> new ItemStack(ModItems.DRACOPLATE))
                     .displayName(Text.translatable("itemgroup.antithetic.plate_items"))
                     .entries((displayContext, entries) -> {
+                        entries.add(ModItems.BLANKPLATE);
                         entries.add(ModItems.DRACOPLATE);
                         entries.add(ModItems.DREADPLATE);
                         entries.add(ModItems.EARTHPLATE);
