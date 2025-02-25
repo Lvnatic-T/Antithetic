@@ -1,6 +1,6 @@
 {
-  "itemgroup.antithetic.plate_items": "Plates & Memories",
-  "itemgroup.antithetic.other_items": "Plates & Memories",
+  "itemgroup.antithetic.plate_items": "Plates, Memories & Drives",
+  "itemgroup.antithetic.other_items": "Other Evolution Items",
   "itemgroup.antithetic.mega_items": "Megastones",
 
 
@@ -85,6 +85,7 @@
   "item.antithetic.lustrousorb": "Lustrous Orb",
   "item.antithetic.redorb": "Red Orb",
 
+  "item.antithetic.blankplate": "Blank Plate",
   "item.antithetic.dracoplate": "Draco Plate",
   "item.antithetic.dreadplate": "Dread Plate",
   "item.antithetic.earthplate": "Earth Plate",

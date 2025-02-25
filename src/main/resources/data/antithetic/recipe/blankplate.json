@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:smooth_stone"
+    }
+  },
+  "pattern": [
+    "##",
+    "##",
+    "##"
+  ],
+  "result": {
+    "id": "antithetic:blankplate",
+    "components": {
+      "minecraft:lore": [
+        "{\"color\":\"gray\",\"text\":\"A Fragment of Legendary Power\"}"
+      ]
+    }
+  }
+}

@@ -20,7 +20,7 @@
     "components": {
       "minecraft:item_name": "{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\": \"Diancite\"}],\"italic\":false,\"text\":\"\"}",
       "minecraft:lore": [
-        "{\"color\":\"gray\",\"text\":\"Held item to Mega Evolve Diancie.\"}"
+        "{\"color\":\"gray\",\"text\":\"Held item to Mega Evolve Diancie\"}"
       ]
     }
   }

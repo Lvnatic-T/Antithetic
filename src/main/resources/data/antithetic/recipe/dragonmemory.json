@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:disc_fragment_5"
+    },
+    {
+      "item": "cobblemon:dragon_gem"
+    }
+  ],
+  "result": {
+    "id": "antithetic:dragonmemory",
+    "components": {
+      "minecraft:item_name": "{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\": \"Dragon Memory\"}],\"italic\":false,\"text\":\"\"}",
+      "minecraft:lore": [
+        "{\"color\":\"gray\",\"text\":\"Changes Silvally's typing to Dragon\"}"
+      ]
+    }
+  }
+}

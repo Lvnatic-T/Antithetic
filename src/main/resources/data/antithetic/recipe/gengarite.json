@@ -17,7 +17,7 @@
     "components": {
       "minecraft:item_name": "{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\": \"Gengarite\"}],\"italic\":false,\"text\":\"\"}",
       "minecraft:lore": [
-        "{\"color\":\"gray\",\"text\":\"Held item to Mega Evolve Gengar.\"}"
+        "{\"color\":\"gray\",\"text\":\"Held item to Mega Evolve Gengar\"}"
       ]
     }
   }

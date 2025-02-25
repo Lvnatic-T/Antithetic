@@ -14,7 +14,7 @@
     "components": {
       "minecraft:item_name": "{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\": \"Aerodactylite\"}],\"italic\":false,\"text\":\"\"}",
       "minecraft:lore": [
-        "{\"color\":\"gray\",\"text\":\"Held item to Mega Evolve Aerodactyl.\"}"
+        "{\"color\":\"gray\",\"text\":\"Held item to Mega Evolve Aerodactyl\"}"
       ]
     }
   }

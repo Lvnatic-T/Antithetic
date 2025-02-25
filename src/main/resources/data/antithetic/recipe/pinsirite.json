@@ -17,7 +17,7 @@
     "components": {
       "minecraft:item_name": "{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\": \"Pinsirite\"}],\"italic\":false,\"text\":\"\"}",
       "minecraft:lore": [
-        "{\"color\":\"gray\",\"text\":\"Held item to Mega Evolve Pinsir.\"}"
+        "{\"color\":\"gray\",\"text\":\"Held item to Mega Evolve Pinsir\"}"
       ]
     }
   }

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:disc_fragment_5"
+    },
+    {
+      "item": "cobblemon:water_gem"
+    }
+  ],
+  "result": {
+    "id": "antithetic:watermemory",
+    "components": {
+      "minecraft:item_name": "{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\": \"Water Memory\"}],\"italic\":false,\"text\":\"\"}",
+      "minecraft:lore": [
+        "{\"color\":\"gray\",\"text\":\"Changes Silvally's typing to Water\"}"
+      ]
+    }
+  }
+}
