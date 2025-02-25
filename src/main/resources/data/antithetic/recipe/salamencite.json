@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cobblemon:flying_gem"
+    },
+    {
+      "item": "cobblemon:dragon_gem"
+    },
+    {
+      "item": "cobblemon:iron_ball"
+    }
+  ],
+  "result": {
+    "id": "antithetic:salamencite",
+    "components": {
+      "minecraft:item_name": "{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\": \"Salamencite\"}],\"italic\":false,\"text\":\"\"}",
+      "minecraft:lore": [
+        "{\"color\":\"gray\",\"text\":\"Held item to Mega Evolve Salamance.\"}"
+      ]
+    }
+  }
+}

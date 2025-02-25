@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cobblemon:water_gem"
+    },
+    {
+      "item": "cobblemon:kings_rock"
+    },
+    {
+      "item": "cobblemon:iron_ball"
+    }
+  ],
+  "result": {
+    "id": "antithetic:slowbronite",
+    "components": {
+      "minecraft:item_name": "{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\": \"Slowbronite\"}],\"italic\":false,\"text\":\"\"}",
+      "minecraft:lore": [
+        "{\"color\":\"gray\",\"text\":\"Held item to Mega Evolve Slowbro.\"}"
+      ]
+    }
+  }
+}

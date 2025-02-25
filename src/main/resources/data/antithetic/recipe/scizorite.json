@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cobblemon:bug_gem"
+    },
+    {
+      "item": "cobblemon:metal_coat"
+    },
+    {
+      "item": "cobblemon:iron_ball"
+    }
+  ],
+  "result": {
+    "id": "antithetic:scizorite",
+    "components": {
+      "minecraft:item_name": "{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\": \"Scizorite\"}],\"italic\":false,\"text\":\"\"}",
+      "minecraft:lore": [
+        "{\"color\":\"gray\",\"text\":\"Held item to Mega Evolve Scizor.\"}"
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:campfire"
+    },
+    {
+      "item": "cobblemon:fire_stone"
+    },
+    {
+      "item": "cobblemon:iron_ball"
+    }
+  ],
+  "result": {
+    "id": "antithetic:charizardite_y",
+    "components": {
+      "minecraft:item_name": "{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\": \"Charizardite Y\"}],\"italic\":false,\"text\":\"\"}",
+      "minecraft:lore": [
+        "{\"color\":\"gray\",\"text\":\"Held item to Mega Evolve Charizard.\"}"
+      ]
+    }
+  }
+}

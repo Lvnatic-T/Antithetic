@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cobblemon:amethyst_shard"
+    },
+    {
+      "item": "cobblemon:dark_gem"
+    },
+    {
+      "item": "cobblemon:iron_ball"
+    }
+  ],
+  "result": {
+    "id": "antithetic:sablenite",
+    "components": {
+      "minecraft:item_name": "{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\": \"Sablenite\"}],\"italic\":false,\"text\":\"\"}",
+      "minecraft:lore": [
+        "{\"color\":\"gray\",\"text\":\"Held item to Mega Evolve Sableye.\"}"
+      ]
+    }
+  }
+}
