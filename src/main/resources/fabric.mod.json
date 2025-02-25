@@ -3,7 +3,7 @@
 	"id": "antithetic",
 	"version": "${version}",
 	"name": "Antithetic",
-	"description": "This adds Form changes and required items to the game!",
+	"description": "This adds form changes and required items to the game!",
 	"authors": [
 		"Lvnatic-T"
 	],
@@ -33,8 +33,5 @@
 		"minecraft": "~1.21.1",
 		"java": ">=21",
 		"fabric-api": "*"
-	},
-	"suggests": {
-		"another-mod": "*"
 	}
 }
