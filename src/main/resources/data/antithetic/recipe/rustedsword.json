@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": {
+      "item": "minecraft:iron_sword"
+    },
+    "W": {
+      "item": "minecraft:water_bucket"
+    },
+    "N": {
+      "item": "minecraft:iron_sword"
+    }
+},
+  "pattern": [
+    "WNW",
+    "WSW",
+    "WWW"
+  ],
+  "result": {
+    "id": "antithetic:rustedsword",
+    "components": {
+      "minecraft:item_name": "{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\": \"Rusted Sword\"}],\"italic\":false,\"text\":\"\"}",
+      "minecraft:lore": [
+        "{\"color\":\"gray\",\"text\":\"Transforms Zacian into its Crowned Sword Form\"}"
+      ]
+    }
+  }
+}
