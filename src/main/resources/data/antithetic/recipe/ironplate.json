@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "antithetic:blankplate"
+    },
+    {
+      "item": "cobblemon:steel_gem"
+    }
+  ],
+  "result": {
+    "id": "antithetic:ironplate",
+    "components": {
+      "minecraft:item_name": "{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\": \"Iron Plate\"}],\"italic\":false,\"text\":\"\"}",
+      "minecraft:lore": [
+        "{\"color\":\"gray\",\"text\":\"Changes Arceus' typing to Steel}"
+      ]
+    }
+  }
+}

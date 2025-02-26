@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "antithetic:blankplate"
+    },
+    {
+      "item": "cobblemon:dark_gem"
+    }
+  ],
+  "result": {
+    "id": "antithetic:dreadplate",
+    "components": {
+      "minecraft:item_name": "{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\": \"Dread Plate\"}],\"italic\":false,\"text\":\"\"}",
+      "minecraft:lore": [
+        "{\"color\":\"gray\",\"text\":\"Changes Arceus' typing to Dark\"}"
+      ]
+    }
+  }
+}

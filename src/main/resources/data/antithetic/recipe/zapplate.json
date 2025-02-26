@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "antithetic:blankplate"
+    },
+    {
+      "item": "cobblemon:electric_gem"
+    }
+  ],
+  "result": {
+    "id": "antithetic:zapplate",
+    "components": {
+      "minecraft:item_name": "{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\": \"Zap Plate\"}],\"italic\":false,\"text\":\"\"}",
+      "minecraft:lore": [
+        "{\"color\":\"gray\",\"text\":\"Changes Arceus' typing to Electric\"}"
+      ]
+    }
+  }
+}

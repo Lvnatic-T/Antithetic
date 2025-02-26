@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "antithetic:blankplate"
+    },
+    {
+      "item": "cobblemon:ghost_gem"
+    }
+  ],
+  "result": {
+    "id": "antithetic:spookyplate",
+    "components": {
+      "minecraft:item_name": "{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\": \"Spooky Plate\"}],\"italic\":false,\"text\":\"\"}",
+      "minecraft:lore": [
+        "{\"color\":\"gray\",\"text\":\"Changes Arceus' typing to Ghost\"}"
+      ]
+    }
+  }
+}
