@@ -118,14 +118,14 @@ public class ModItemGroups {
                         entries.add(ModItems.CORNERSTONEMASK);
                         entries.add(ModItems.HEARTHFLAMEMASK);
                         entries.add(ModItems.WELLSPRINGMASK);
+                        entries.add(ModItems.GRACIDEA);
                         entries.add(ModItems.ADAMANTORB);
-                        entries.add(ModItems.BLUEORB);
                         entries.add(ModItems.GRISEOUSORB);
                         entries.add(ModItems.LUSTROUSORB);
                         entries.add(ModItems.REDORB);
+                        entries.add(ModItems.BLUEORB);
                         entries.add(ModItems.RUSTEDSWORD);
                         entries.add(ModItems.RUSTEDSHIELD);
-                        entries.add(ModItems.GRACIDEA);
                         entries.add(ModItems.PRISON_BOTTLE);
                         entries.add(ModItems.REVEALGLASS);
                         entries.add(ModItems.SCROLL_OF_DARKNESS);

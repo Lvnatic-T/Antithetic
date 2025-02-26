@@ -85,10 +85,10 @@ public class ModItems {
     public static final Item WATERMEMORY = registerItem("watermemory", new Item(new Item.Settings()));
 
     public static final Item ADAMANTORB = registerItem("adamantorb", new Item(new Item.Settings()));
-    public static final Item BLUEORB = registerItem("blueorb", new Item(new Item.Settings()));
     public static final Item GRISEOUSORB = registerItem("griseousorb", new Item(new Item.Settings()));
     public static final Item LUSTROUSORB = registerItem("lustrousorb", new Item(new Item.Settings()));
     public static final Item REDORB = registerItem("redorb", new Item(new Item.Settings()));
+    public static final Item BLUEORB = registerItem("blueorb", new Item(new Item.Settings()));
 
     public static final Item BLANKPLATE = registerItem("blankplate", new Item(new Item.Settings()));
     public static final Item DRACOPLATE = registerItem("dracoplate", new Item(new Item.Settings()));
