@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cobblemon:dubious_disc"
+    },
+    {
+      "item": "cobblemon:fire_gem"
+    }
+  ],
+  "result": {
+    "id": "antithetic:burndrive",
+    "components": {
+      "minecraft:item_name": "{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\": \"Burn Drive\"}],\"italic\":false,\"text\":\"\"}",
+      "minecraft:lore": [
+        "{\"color\":\"gray\",\"text\":\"Changes Genesect's 'Techno Blast' to Fire (Cosmetic only)\"}"
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cobblemon:dubious_disc"
+    },
+    {
+      "item": "cobblemon:water_gem"
+    }
+  ],
+  "result": {
+    "id": "antithetic:dousedrive",
+    "components": {
+      "minecraft:item_name": "{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\": \"Douse Drive\"}],\"italic\":false,\"text\":\"\"}",
+      "minecraft:lore": [
+        "{\"color\":\"gray\",\"text\":\"Changes Genesect's 'Techno Blast' to Water (Cosmetic only)\"}"
+      ]
+    }
+  }
+}

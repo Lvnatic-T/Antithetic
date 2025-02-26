@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cobblemon:dubious_disc"
+    },
+    {
+      "item": "cobblemon:ice_gem"
+    }
+  ],
+  "result": {
+    "id": "antithetic:chilldrive",
+    "components": {
+      "minecraft:item_name": "{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\": \"Chill Drive\"}],\"italic\":false,\"text\":\"\"}",
+      "minecraft:lore": [
+        "{\"color\":\"gray\",\"text\":\"Changes Genesect's 'Techno Blast' to Ice (Cosmetic only)\"}"
+      ]
+    }
+  }
+}
