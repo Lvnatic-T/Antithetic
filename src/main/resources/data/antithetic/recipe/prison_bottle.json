@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "minecraft:purple_dye"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "B": {
+      "item": "minecraft:glass_bottle"
+    },
+    "Q": {
+      "item": "minecraft:quartz"
+    }
+},
+  "pattern": [
+    "PPP",
+    "GBG",
+    "QQQ"
+  ],
+  "result": {
+    "id": "antithetic:prison_bottle",
+    "components": {
+      "minecraft:item_name": "{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\": \"Prison Bottle\"}],\"italic\":false,\"text\":\"\"}",
+      "minecraft:lore": [
+        "{\"color\":\"gray\",\"text\":\"Transforms Hoopa to their Confined/Unbound Form\"}"
+      ]
+    }
+  }
+}
