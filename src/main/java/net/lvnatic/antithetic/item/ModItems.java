@@ -114,6 +114,7 @@ public class ModItems {
     public static final Item GRACIDEA = registerItem("gracidea", new Item(new Item.Settings()));
     public static final Item PRISON_BOTTLE = registerItem("prison_bottle", new Item(new Item.Settings()));
     public static final Item REVEALGLASS = registerItem("revealglass", new Item(new Item.Settings()));
+    public static final Item REINSOFUNITY = registerItem("reinsofunity", new Item(new Item.Settings()));
     public static final Item SCROLL_OF_DARKNESS = registerItem("scroll_of_darkness", new Item(new Item.Settings()));
     public static final Item SCROLL_OF_WATERS = registerItem("scroll_of_waters", new Item(new Item.Settings()));
     public static final Item DNASPLICER = registerItem("dnasplicer", new Item(new Item.Settings()));

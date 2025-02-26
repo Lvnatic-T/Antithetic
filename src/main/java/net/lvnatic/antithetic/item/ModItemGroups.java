@@ -128,6 +128,7 @@ public class ModItemGroups {
                         entries.add(ModItems.RUSTEDSHIELD);
                         entries.add(ModItems.PRISON_BOTTLE);
                         entries.add(ModItems.REVEALGLASS);
+                        entries.add(ModItems.REINSOFUNITY);
                         entries.add(ModItems.SCROLL_OF_DARKNESS);
                         entries.add(ModItems.SCROLL_OF_WATERS);
                         entries.add(ModItems.DNASPLICER);

@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "E": {
+      "item": "minecraft:echo_shard"
+    },
+    "Q": {
+      "item": "minecraft:quartz"
+    }
+},
+  "pattern": [
+    " QG",
+    "ENQ",
+    "QE "
+  ],
+  "result": {
+    "id": "antithetic:dnasplicer",
+    "components": {
+      "minecraft:item_name": "{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\": \"DNA Splicer\"}],\"italic\":false,\"text\":\"\"}",
+      "minecraft:lore": [
+        "{\"color\":\"gray\",\"text\":\"Returns Pokémon to their Natural Form\"}"
+      ]
+    }
+  }
+}

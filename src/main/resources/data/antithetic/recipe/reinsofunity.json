@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "minecraft:black_dye"
+    },
+    "B": {
+      "item": "minecraft:blue_dye"
+    },
+    "S": {
+      "item": "minecraft:saddle"
+    }
+},
+  "pattern": [
+    "D  ",
+    "BS ",
+    "BBD"
+  ],
+  "result": {
+    "id": "antithetic:reinsofunity",
+    "components": {
+      "minecraft:item_name": "{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\": \"Reins of Unity\"}],\"italic\":false,\"text\":\"\"}",
+      "minecraft:lore": [
+        "{\"color\":\"gray\",\"text\":\"Fuses Calyrex with Glastrier or Spectrier\"}"
+      ]
+    }
+  }
+}
