@@ -2,6 +2,7 @@ package net.lvnatic.antithetic.item;
 
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
 import net.lvnatic.antithetic.Antithetic;
+import net.lvnatic.antithetic.block.ModBlocks;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
 import net.minecraft.registry.Registries;
@@ -87,6 +88,7 @@ public class ModItemGroups {
                         entries.add(ModItems.STONEPLATE);
                         entries.add(ModItems.TOXICPLATE);
                         entries.add(ModItems.ZAPPLATE);
+                        entries.add(ModItems.BLANKMEMORY);
                         entries.add(ModItems.BUGMEMORY);
                         entries.add(ModItems.DARKMEMORY);
                         entries.add(ModItems.DRAGONMEMORY);
@@ -104,6 +106,7 @@ public class ModItemGroups {
                         entries.add(ModItems.ROCKMEMORY);
                         entries.add(ModItems.STEELMEMORY);
                         entries.add(ModItems.WATERMEMORY);
+                        entries.add(ModItems.BLANKDRIVE);
                         entries.add(ModItems.BURNDRIVE);
                         entries.add(ModItems.CHILLDRIVE);
                         entries.add(ModItems.DOUSEDRIVE);
@@ -132,6 +135,11 @@ public class ModItemGroups {
                         entries.add(ModItems.SCROLL_OF_DARKNESS);
                         entries.add(ModItems.SCROLL_OF_WATERS);
                         entries.add(ModItems.DNASPLICER);
+                        entries.add(ModBlocks.ROTOM_FAN);
+                        entries.add(ModBlocks.ROTOM_FROST);
+                        entries.add(ModBlocks.ROTOM_HEAT);
+                        entries.add(ModBlocks.ROTOM_MOW);
+                        entries.add(ModBlocks.ROTOM_WASH);
                     }).build());
 
 

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "antithetic:block/rotom_wash",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "antithetic:block/rotom_wash"
+    },
+    "facing=south": {
+      "model": "antithetic:block/rotom_wash",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "antithetic:block/rotom_wash",
+      "y": 270
+    }
+  }
+}

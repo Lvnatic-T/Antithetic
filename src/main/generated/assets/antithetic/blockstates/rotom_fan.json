@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "antithetic:block/rotom_fan",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "antithetic:block/rotom_fan"
+    },
+    "facing=south": {
+      "model": "antithetic:block/rotom_fan",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "antithetic:block/rotom_fan",
+      "y": 270
+    }
+  }
+}

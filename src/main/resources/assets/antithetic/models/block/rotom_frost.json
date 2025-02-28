@@ -1,0 +1,153 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "rotom_frost",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "antithetic:block/rotom_frost",
+		"particle": "antithetic:block/rotom_frost"
+	},
+	"elements": [
+		{
+			"name": "body",
+			"from": [1, 0, 3],
+			"to": [15, 24, 15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1, 0, 1]},
+			"faces": {
+				"north": {"uv": [0, 0, 3.5, 6], "texture": "#0"},
+				"east": {"uv": [3.5, 0, 6.5, 6], "texture": "#0"},
+				"south": {"uv": [0, 0, 3.5, 6], "texture": "#0"},
+				"west": {"uv": [3.5, 0, 6.5, 6], "texture": "#0"},
+				"up": {"uv": [7.5, 0, 11, 3], "texture": "#0"},
+				"down": {"uv": [7.5, 0, 11, 3], "texture": "#0"}
+			}
+		},
+		{
+			"name": "body_back",
+			"from": [3.5, 0.25, 14],
+			"to": [12.5, 4.25, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -2, 9]},
+			"faces": {
+				"north": {"uv": [6, 7.25, 8.25, 8.25], "texture": "#0"},
+				"east": {"uv": [5.5, 7.25, 6, 8.25], "texture": "#0"},
+				"south": {"uv": [8.75, 7.25, 11, 8.25], "texture": "#0"},
+				"west": {"uv": [8.25, 7.25, 8.75, 8.25], "texture": "#0"},
+				"up": {"uv": [8.25, 7.25, 6, 6.75], "texture": "#0"},
+				"down": {"uv": [10.5, 6.75, 8.25, 7.25], "texture": "#0"}
+			}
+		},
+		{
+			"name": "door_left",
+			"from": [5.25, 9, 0.5],
+			"to": [7.25, 13, 1.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0.5, 6]},
+			"faces": {
+				"north": {"uv": [3.25, 4.25, 3.75, 5.25], "texture": "#0"},
+				"east": {"uv": [3, 4.25, 3.25, 5.25], "texture": "#0"},
+				"south": {"uv": [4, 4.25, 4.5, 5.25], "texture": "#0"},
+				"west": {"uv": [3.75, 4.25, 4, 5.25], "texture": "#0"},
+				"up": {"uv": [3.75, 4.25, 3.25, 4], "texture": "#0"},
+				"down": {"uv": [4.25, 4, 3.75, 4.25], "texture": "#0"}
+			}
+		},
+		{
+			"name": "door_right",
+			"from": [8.75, 9, 0.5],
+			"to": [10.75, 13, 1.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0.5, 6]},
+			"faces": {
+				"north": {"uv": [3.75, 0.75, 3.25, 1.75], "texture": "#0"},
+				"east": {"uv": [4, 0.75, 3.75, 1.75], "texture": "#0"},
+				"south": {"uv": [4.5, 0.75, 4, 1.75], "texture": "#0"},
+				"west": {"uv": [3.25, 0.75, 3, 1.75], "texture": "#0"},
+				"up": {"uv": [3.25, 0.75, 3.75, 0.5], "texture": "#0"},
+				"down": {"uv": [3.75, 0.5, 4.25, 0.75], "texture": "#0"}
+			}
+		},
+		{
+			"name": "divider",
+			"from": [7.5, -0.01, 0.99],
+			"to": [8.5, 24.01, 2.99],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 3, 6]},
+			"faces": {
+				"north": {"uv": [11, 0.5, 11.25, 6.5], "texture": "#0"},
+				"east": {"uv": [10.5, 0.5, 11, 6.5], "texture": "#0"},
+				"south": {"uv": [11.75, 0.5, 12, 6.5], "texture": "#0"},
+				"west": {"uv": [11.25, 0.5, 11.75, 6.5], "texture": "#0"},
+				"up": {"uv": [11.25, 0.5, 11, 0], "texture": "#0"},
+				"down": {"uv": [11.5, 0, 11.25, 0.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "door",
+			"from": [1, 0, 1],
+			"to": [15, 24, 3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1, 0, -1]},
+			"faces": {
+				"north": {"uv": [0, 0, 3.5, 6], "texture": "#0"},
+				"east": {"uv": [6.5, 0, 7, 6], "texture": "#0"},
+				"south": {"uv": [0, 0, 3.5, 6], "texture": "#0"},
+				"west": {"uv": [7, 0, 7.5, 6], "texture": "#0"},
+				"up": {"uv": [7.5, 3.5, 11, 4], "texture": "#0"},
+				"down": {"uv": [7.5, 3, 11, 3.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, -1.5, -1.5],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, -1.5, -1.5],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_righthand": {
+			"translation": [0, -1.5, -1.5],
+			"scale": [0.45, 0.45, 0.45]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, -1.5, -1.5],
+			"scale": [0.45, 0.45, 0.45]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 1.5, -2],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"gui": {
+			"rotation": [15, 145, 0],
+			"translation": [0, -2, 0],
+			"scale": [0.53, 0.53, 0.53]
+		},
+		"head": {
+			"translation": [0, -3, 0],
+			"scale": [0.95, 0.95, 0.95]
+		},
+		"fixed": {
+			"translation": [0, -2.75, 2],
+			"scale": [0.7, 0.7, 0.7]
+		}
+	},
+	"groups": [
+		{
+			"name": "rotom_frost",
+			"origin": [1, 0, 1],
+			"color": 0,
+			"children": [
+				{
+					"name": "body",
+					"origin": [0, 4.25, 5],
+					"color": 0,
+					"children": [0, 1]
+				},
+				{
+					"name": "doors",
+					"origin": [0, 8, -3],
+					"color": 0,
+					"children": [2, 3, 4]
+				},
+				5
+			]
+		}
+	]
+}

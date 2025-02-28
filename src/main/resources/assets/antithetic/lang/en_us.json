@@ -4,6 +4,7 @@
   "itemgroup.antithetic.mega_items": "Megastones",
 
 
+  "item.antithetic.blankdrive": "Blank Drive",
   "item.antithetic.burndrive": "Burn Drive",
   "item.antithetic.chilldrive": "Chill Drive",
   "item.antithetic.dousedrive": "Douse Drive",
@@ -61,6 +62,7 @@
   "item.antithetic.tyranitarite": "Tyranitarite",
   "item.antithetic.venusaurite": "Venusaurite",
 
+  "item.antithetic.blankmemory": "Blank Memory",
   "item.antithetic.bugmemory": "Bug Memory",
   "item.antithetic.darkmemory": "Dark Memory",
   "item.antithetic.dragonmemory": "Dragon Memory",
@@ -112,5 +114,10 @@
   "item.antithetic.reinsofunity": "Reins of Unity",
   "item.antithetic.scroll_of_darkness": "Scroll of Darkness",
   "item.antithetic.scroll_of_waters": "Scroll of Waters",
-  "item.antithetic.dnasplicer": "DNA Splicer"
+  "item.antithetic.dnasplicer": "DNA Splicer",
+  "block.antithetic.rotom_fan": "Dubious Fan",
+  "block.antithetic.rotom_frost": "Dubious Fridge",
+  "block.antithetic.rotom_heat": "Dubious Oven",
+  "block.antithetic.rotom_mow": "Dubious Mower",
+  "block.antithetic.rotom_wash": "Dubious Washer"
 }

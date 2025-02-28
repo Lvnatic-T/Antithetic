@@ -9,6 +9,8 @@ import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
 
 public class ModItems {
+
+    public static final Item BLANKDRIVE = registerItem("blankdrive", new Item(new Item.Settings()));
     public static final Item BURNDRIVE = registerItem("burndrive", new Item(new Item.Settings()));
     public static final Item CHILLDRIVE = registerItem("chilldrive", new Item(new Item.Settings()));
     public static final Item DOUSEDRIVE = registerItem("dousedrive", new Item(new Item.Settings()));
@@ -66,6 +68,7 @@ public class ModItems {
     public static final Item TYRANITARITE = registerItem("tyranitarite", new Item(new Item.Settings()));
     public static final Item VENUSAURITE = registerItem("venusaurite", new Item(new Item.Settings()));
 
+    public static final Item BLANKMEMORY = registerItem("blankmemory", new Item(new Item.Settings()));
     public static final Item BUGMEMORY = registerItem("bugmemory", new Item(new Item.Settings()));
     public static final Item DARKMEMORY = registerItem("darkmemory", new Item(new Item.Settings()));
     public static final Item DRAGONMEMORY = registerItem("dragonmemory", new Item(new Item.Settings()));

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "antithetic:block/rotom_mow",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "antithetic:block/rotom_mow"
+    },
+    "facing=south": {
+      "model": "antithetic:block/rotom_mow",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "antithetic:block/rotom_mow",
+      "y": 270
+    }
+  }
+}

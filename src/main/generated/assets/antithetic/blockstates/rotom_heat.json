@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "antithetic:block/rotom_heat",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "antithetic:block/rotom_heat"
+    },
+    "facing=south": {
+      "model": "antithetic:block/rotom_heat",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "antithetic:block/rotom_heat",
+      "y": 270
+    }
+  }
+}
