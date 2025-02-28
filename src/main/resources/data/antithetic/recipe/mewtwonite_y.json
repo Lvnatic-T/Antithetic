@@ -1,16 +1,21 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "minecraft:crafting_shaped",
   "category": "misc",
-  "ingredients": [
-    {
+  "key": {
+    "A": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "G": {
+      "item": "cobblemon:psychic_gem"
+    },
+    "#": {
       "item": "minecraft:nether_star"
-    },
-    {
-      "item": "cobblemon:psychic_gem"
-    },
-    {
-      "item": "cobblemon:psychic_gem"
     }
+  },
+  "pattern": [
+    " G ",
+    "A#A",
+    " G "
   ],
   "result": {
     "id": "antithetic:mewtwonite_y",

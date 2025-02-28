@@ -1,16 +1,24 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "minecraft:crafting_shaped",
   "category": "misc",
-  "ingredients": [
-    {
-      "item": "cobblemon:twisted_spoon"
+  "key": {
+    "A": {
+      "item": "minecraft:quartz"
     },
-    {
+    "G": {
       "item": "cobblemon:psychic_gem"
     },
-    {
+    "#": {
       "item": "cobblemon:iron_ball"
+    },
+    "B": {
+      "item": "cobblemon:twisted_spoon"
     }
+  },
+  "pattern": [
+    " B ",
+    "A#A",
+    " G "
   ],
   "result": {
     "id": "antithetic:alakazite",

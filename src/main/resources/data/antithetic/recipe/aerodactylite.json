@@ -1,13 +1,24 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "minecraft:crafting_shaped",
   "category": "misc",
-  "ingredients": [
-    {
+  "key": {
+    "A": {
       "item": "cobblemon:old_amber_fossil"
     },
-    {
+    "G": {
+      "item": "cobblemon:rock_gem"
+    },
+    "#": {
       "item": "cobblemon:iron_ball"
+    },
+    "B": {
+      "item": "cobblemon:iron_ingot"
     }
+  },
+  "pattern": [
+    " A ",
+    "B#B",
+    " G "
   ],
   "result": {
     "id": "antithetic:aerodactylite",

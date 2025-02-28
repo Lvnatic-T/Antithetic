@@ -1,16 +1,21 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "minecraft:crafting_shaped",
   "category": "misc",
-  "ingredients": [
-    {
-      "item": "cobblemon:amethyst_shard"
+  "key": {
+    "A": {
+      "item": "minecraft:amethyst_shard"
     },
-    {
+    "G": {
       "item": "cobblemon:dark_gem"
     },
-    {
+    "#": {
       "item": "cobblemon:iron_ball"
     }
+  },
+  "pattern": [
+    " A ",
+    "A#A",
+    " G "
   ],
   "result": {
     "id": "antithetic:sablenite",
