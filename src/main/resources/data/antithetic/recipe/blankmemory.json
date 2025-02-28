@@ -3,19 +3,18 @@
   "category": "misc",
   "key": {
     "#": {
-      "item": "minecraft:smooth_stone"
+      "item": "minecraft:disc_fragment_5"
     }
   },
   "pattern": [
     "##",
-    "##",
     "##"
   ],
   "result": {
-    "id": "antithetic:blankplate",
+    "id": "antithetic:blankmemory",
     "components": {
       "minecraft:lore": [
-        "{\"color\":\"gray\",\"text\":\"A Fragment of legendary Power\"}"
+        "{\"color\":\"gray\",\"text\":\"A Fragment of past Memories\"}"
       ]
     }
   }

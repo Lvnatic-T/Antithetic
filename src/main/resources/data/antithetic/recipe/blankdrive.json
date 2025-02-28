@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "cobblemon:dubious_disc"
+    },
+    "I": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "pattern": [
+    "III",
+    "I#I",
+    "III"
+  ],
+  "result": {
+    "id": "antithetic:blankdrive",
+    "components": {
+      "minecraft:lore": [
+        "{\"color\":\"gray\",\"text\":\"A Fragment of technological Power\"}"
+      ]
+    }
+  }
+}
