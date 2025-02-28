@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:glowstone_dust"
+    },
+    "A": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "B",
+    "A"
+  ],
+  "result": {
+    "id": "antithetic:bulb",
+    "components": {
+      "minecraft:lore": [
+        "{\"color\":\"gray\",\"text\":\"Forces Rotom out of his current appliance\"}"
+      ]
+    }
+  }
+}

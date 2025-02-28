@@ -121,6 +121,8 @@ public class ModItems {
     public static final Item SCROLL_OF_DARKNESS = registerItem("scroll_of_darkness", new Item(new Item.Settings()));
     public static final Item SCROLL_OF_WATERS = registerItem("scroll_of_waters", new Item(new Item.Settings()));
     public static final Item DNASPLICER = registerItem("dnasplicer", new Item(new Item.Settings()));
+    public static final Item BULB = registerItem("bulb", new Item(new Item.Settings()));
+
 
 
     private static Item registerItem(String name, Item item) {
