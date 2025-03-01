@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:gray_dye"
+    },
+    "B": {
+      "item": "minecraft:light_blue_dye"
+    },
+    "#": {
+      "item": "minecraft:wither_skeleton_skull"
+    }
+  },
+  "pattern": [
+    "AAA",
+    "B#B",
+    "AAA"
+  ],
+  "result": {
+    "id": "antithetic:cornerstonemask",
+    "components": {
+      "minecraft:item_name": "{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\": \"Cornerstone Mask\"}],\"italic\":false,\"text\":\"\"}",
+      "minecraft:lore": [
+        "{\"color\":\"gray\",\"text\":\"Ogerpon would love this!\"}"
+      ]
+    }
+  }
+}

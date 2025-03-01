@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:red_dye"
+    },
+    "B": {
+      "item": "minecraft:orange_dye"
+    },
+    "#": {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    "C": {
+      "item": "minecraft:light_blue_dye"
+    }
+  },
+  "pattern": [
+    "BAB",
+    "A#A",
+    "ACA"
+  ],
+  "result": {
+    "id": "antithetic:hearthflamemask",
+    "components": {
+      "minecraft:item_name": "{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\": \"Hearthflame Mask\"}],\"italic\":false,\"text\":\"\"}",
+      "minecraft:lore": [
+        "{\"color\":\"gray\",\"text\":\"Ogerpon would love this!\"}"
+      ]
+    }
+  }
+}
