@@ -7,13 +7,10 @@
     },
     "W": {
       "item": "minecraft:water_bucket"
-    },
-    "N": {
-      "item": "minecraft:iron_sword"
     }
 },
   "pattern": [
-    "WNW",
+    "WWW",
     "WSW",
     "WWW"
   ],
