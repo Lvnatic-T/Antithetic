@@ -5,7 +5,7 @@
     - Put it in `\mods`
 
 
-2. **Download the latest override *(from [here](https://cdn.discordapp.com/attachments/1345518292525121536/1345564500992200784/OVERRIDES.zip?ex=67c50218&is=67c3b098&hm=fe59322a79b8bb94e466562a86b5f45cbcdf8d38e71fd2665b9b3f9f21fc9769&))***
+2. **Download the latest override *(from [here](https://cdn.discordapp.com/attachments/1345518292525121536/1345594518807777290/OVERRIDES.zip?ex=67c51e0d&is=67c3cc8d&hm=495cc23adbbe3739097d2f1cca9cb51885de659002c32c5151f0d32aa6cc3479&))***
 
 
 3. **Navigate to `\saves\[YOURWORLDNAME]\datapacks\ATM Ultimate`**
