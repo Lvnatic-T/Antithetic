@@ -5,23 +5,23 @@
     - Put it in `\mods`
 
 
-2. **Download the latest override *(from [here](https://cdn.discordapp.com/attachments/1345518292525121536/1345594518807777290/OVERRIDES.zip?ex=67c51e0d&is=67c3cc8d&hm=495cc23adbbe3739097d2f1cca9cb51885de659002c32c5151f0d32aa6cc3479&))***
+2. **Download the latest override *(from [here](https://discord.com/channels/1014582959480774666/1345518292525121536/1345603120960372737))***
 
 
 3. **Navigate to `\saves\[YOURWORLDNAME]\datapacks\ATM Ultimate`**
    - Make sure AllTheMons Ultimate is **unzipped**
-   - Drag both the assets & data folders from the `OVERRIDE.zip` into Ignited's base folder
+   - Drag both the assets & data folders from the `OVERRIDE.zip` into ATM - Ultimate's base folder
        - *(Where assets, data, documentation etc. are)*
-   - It will ask to `override 76 files`, click `yes`
-   - If not, you made a mistake and need to undo or reinstall ignited
+   - It will ask to `override 77 files`, click `yes`
+   - If not, you made a mistake and need to undo or reinstall ATM - Ultimate
 
 
 4. **Navigate to `\resourcepacks\ATM Ultimate`**
    - Make sure AllTheMons Ultimate is **unzipped**
    - Drag both the assets & data folders from the `OVERRIDE.zip` into ATM - Ultimate's base folder
      - *(Where assets, data, documentation etc. are)*
-   - It will ask to `override 76 files`, click `yes`
-   - If not, you made a mistake and need to undo or reinstall ignited
+   - It will ask to `override 77 files`, click `yes`
+   - If not, you made a mistake and need to undo or reinstall ATM - Ultimate
 
 _(You have to repeat step 3 & 4 *every time* you update ATM - Ultimate!)_
 
@@ -36,13 +36,13 @@ _(You have to repeat step 3 & 4 *every time* you update ATM - Ultimate!)_
 - *Reins of Unity for Calyrex*
 - *Prison Bottle for Hoopa*
 - *Gracidea for Shaymin*
+- *Ogerpons 3 Masks*
 - *Scrolls for Kubfu*
-- *Ogerpon Masks*
 
 ### A universal unevolve item called *DNA Splicerr*
 - *Unmerges any Fusion (Kyurem, Necrozma, Calyrex etc.)*
+- *Undo Ogerpon's Form Change*
 - *Undo any Mega's Evolution*
-- *Undo Ogerpon's Evolution* 
 
 # Each evolution explained:
 
@@ -140,6 +140,8 @@ _(You have to repeat step 3 & 4 *every time* you update ATM - Ultimate!)_
 - Lightbulb is a placeholder texture, I'll get sth better
 - Genesects Form Change is purely visual since Techno Blast doesn't change Typing
 - Arceus' Judgement doesn't change typing
+- If I make enough money through AllTheMegas & Rotom Appliances I'll hire someone to make the items have their buffs
+  - Cuz apparently that's way more complicated than I assumed
 
 # How to uninstall/revert back to ATM Ultimate's evolutions:
 - Delete Antithetic from `/mods`
