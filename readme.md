@@ -1,4 +1,4 @@
-# How to install this Mod correctly:
+# How to install this Mod correctly!:
 
 1. **Download the latest version of the mod *(from releases, **not** code)***
     - Note that it's Fabric only
