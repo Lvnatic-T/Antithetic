@@ -1,25 +1,27 @@
 # How to install this Mod correctly:
 
 1. **Download the latest version of the mod *(from releases, **not** code)***
+    - Note that it's Fabric only
+    - Put it in `\mods`
 
 
 2. **Download the latest override *(from [here]())***
 
 
 3. **Navigate to `\saves\[YOURWORLDNAME]\datapacks\ATM Ultimate`**
-- Make sure *AllTheMons Ultimate* is **unzipped**
-- Drag both the assets & data folders from the `OVERRIDE.zip` into Ignited's base folder
-    - *(Where assets, data, documentation etc. are)*
-- It will ask to `override 76 files`, click `yes`
-- If not, you made a mistake and need to undo or reinstall ignited
+   - Make sure AllTheMons Ultimate is **unzipped**
+   - Drag both the assets & data folders from the `OVERRIDE.zip` into Ignited's base folder
+       - *(Where assets, data, documentation etc. are)*
+   - It will ask to `override 76 files`, click `yes`
+   - If not, you made a mistake and need to undo or reinstall ignited
 
 
 4. **Navigate to `\resourcepacks\ATM Ultimate`**
-- Make sure *AllTheMons Ultimate* is **unzipped**
-- Drag both the assets & data folders from the `OVERRIDE.zip` into ATM - Ultimate's base folder
-  - *(Where assets, data, documentation etc. are)*
-- It will ask to `override 76 files`, click `yes`
-- If not, you made a mistake and need to undo or reinstall ignited
+   - Make sure AllTheMons Ultimate is **unzipped**
+   - Drag both the assets & data folders from the `OVERRIDE.zip` into ATM - Ultimate's base folder
+     - *(Where assets, data, documentation etc. are)*
+   - It will ask to `override 76 files`, click `yes`
+   - If not, you made a mistake and need to undo or reinstall ignited
 
 _(You have to repeat step 3 & 4 *every time* you update ATM - Ultimate!)_
 
