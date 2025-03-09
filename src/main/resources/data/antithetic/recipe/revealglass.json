@@ -29,7 +29,7 @@
   "result": {
     "id": "antithetic:revealglass",
     "components": {
-      "minecraft:item_name": "{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\": \"Red Orb\"}],\"italic\":false,\"text\":\"\"}",
+      "minecraft:item_name": "{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\": \"Reveal Glass\"}],\"italic\":false,\"text\":\"\"}",
       "minecraft:lore": [
         "{\"color\":\"gray\",\"text\":\"Switches Forms of the Forces of Nature\"}"
       ]
