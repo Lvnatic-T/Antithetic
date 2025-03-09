@@ -5,14 +5,14 @@
     - Put it in `\mods`
 
 
-2. **Download the latest override *(from [here](https://discord.com/channels/1014582959480774666/1345518292525121536/1345603120960372737))***
+2. **Download the latest override *(from [here](https://cdn.discordapp.com/attachments/1345518292525121536/1348100562205544458/OVERRIDES.zip?ex=67ce3bfc&is=67ccea7c&hm=29e07b0193e53e464188badaca9abd3fafafd1a37f62f9475f02e87c5f0e7a0a&))***
 
 
 3. **Navigate to `\saves\[YOURWORLDNAME]\datapacks\ATM Ultimate`**
    - Make sure AllTheMons Ultimate is **unzipped**
    - Drag both the assets & data folders from the `OVERRIDE.zip` into ATM - Ultimate's base folder
        - *(Where assets, data, documentation etc. are)*
-   - It will ask to `override 77 files`, click `yes`
+   - It will ask to `override 70 files`, click `yes`
    - If not, you made a mistake and need to undo or reinstall ATM - Ultimate
 
 
@@ -20,7 +20,7 @@
    - Make sure AllTheMons Ultimate is **unzipped**
    - Drag both the assets & data folders from the `OVERRIDE.zip` into ATM - Ultimate's base folder
      - *(Where assets, data, documentation etc. are)*
-   - It will ask to `override 77 files`, click `yes`
+   - It will ask to `override 70 files`, click `yes`
    - If not, you made a mistake and need to undo or reinstall ATM - Ultimate
 
 _(You have to repeat step 3 & 4 *every time* you update ATM - Ultimate!)_
@@ -37,6 +37,7 @@ _(You have to repeat step 3 & 4 *every time* you update ATM - Ultimate!)_
 - *Prison Bottle for Hoopa*
 - *Gracidea for Shaymin*
 - *Ogerpons 3 Masks*
+- *Genesects Forms*
 - *Scrolls for Kubfu*
 
 ### A universal unevolve item called *DNA Splicerr*
