@@ -14,7 +14,7 @@
     "components": {
       "minecraft:item_name": "{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\": \"Iron Plate\"}],\"italic\":false,\"text\":\"\"}",
       "minecraft:lore": [
-        "{\"color\":\"gray\",\"text\":\"Changes Arceus' typing to Steel}"
+        "{\"color\":\"gray\",\"text\":\"Changes Arceus' typing to Steel\"}"
       ]
     }
   }
