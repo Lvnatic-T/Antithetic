@@ -5,6 +5,7 @@ import net.fabricmc.api.ModInitializer;
 import net.lvnatic.antithetic.block.ModBlocks;
 import net.lvnatic.antithetic.item.ModItemGroups;
 import net.lvnatic.antithetic.item.ModItems;
+import net.lvnatic.antithetic.world.gen.ModWorldGeneration;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -17,5 +18,6 @@ public class Antithetic implements ModInitializer {
 		ModItems.registerModItems();
 		ModItemGroups.registerItemGroups();
 		ModBlocks.registerModBlocks();
+		ModWorldGeneration.generateModWorldGen();
 	}
 }
