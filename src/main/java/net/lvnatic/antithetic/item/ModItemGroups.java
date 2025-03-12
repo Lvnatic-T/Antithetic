@@ -136,6 +136,8 @@ public class ModItemGroups {
                         entries.add(ModItems.SCROLL_OF_WATERS);
                         entries.add(ModItems.DNASPLICER);
                         entries.add(ModItems.BULB);
+                        entries.add(ModItems.METEORCHIP);
+                        entries.add(ModBlocks.METEOR);
                         entries.add(ModBlocks.ROTOM_FAN);
                         entries.add(ModBlocks.ROTOM_FROST);
                         entries.add(ModBlocks.ROTOM_HEAT);

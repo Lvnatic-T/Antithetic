@@ -30,6 +30,7 @@ public class ModLootTableProvider extends FabricBlockLootTableProvider {
         addDrop(ModBlocks.ROTOM_HEAT);
         addDrop(ModBlocks.ROTOM_MOW);
         addDrop(ModBlocks.ROTOM_WASH);
+        addDrop(ModBlocks.METEOR);
 
     }
 

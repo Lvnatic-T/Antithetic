@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.2,
+  "group": "misc",
+  "ingredient": {
+    "item": "antithetic:meteor"
+  },
+  "result": {
+    "id": "antithetic:meteorchip",
+    "components": {
+      "minecraft:lore": [
+        "{\"color\":\"gray\",\"text\":\"A fragment of otherworldly powers\"}"
+      ]
+    }
+  }
+}

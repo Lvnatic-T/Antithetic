@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "antithetic:meteorgeode",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 35,
+    "separation": 20,
+    "salt": 486448540,
+    "frequency": 1
+  }
+}

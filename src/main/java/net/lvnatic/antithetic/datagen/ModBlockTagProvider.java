@@ -16,13 +16,13 @@ public class ModBlockTagProvider extends FabricTagProvider.BlockTagProvider {
     @Override
     protected void configure(RegistryWrapper.WrapperLookup wrapperLookup) {
         getOrCreateTagBuilder(BlockTags.PICKAXE_MINEABLE)
-                .add(ModBlocks.ROTOM_FAN)
+                .add(ModBlocks.METEOR)
                 .add(ModBlocks.ROTOM_FROST)
                 .add(ModBlocks.ROTOM_HEAT)
                 .add(ModBlocks.ROTOM_MOW)
                 .add(ModBlocks.ROTOM_WASH);
 
     getOrCreateTagBuilder(BlockTags.AXE_MINEABLE)
-                .add(ModBlocks.ROTOM_WASH);
+                .add(ModBlocks.ROTOM_FAN);
     }
 }

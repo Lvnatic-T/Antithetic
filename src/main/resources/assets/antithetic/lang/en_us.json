@@ -118,9 +118,11 @@
   "item.antithetic.scroll_of_waters": "Scroll of Waters",
   "item.antithetic.dnasplicer": "DNA Splicer",
   "item.antithetic.bulb": "Dubious Bulb",
+  "item.antithetic.meteorchip": "Meteor Chip",
   "block.antithetic.rotom_fan": "Dubious Fan",
   "block.antithetic.rotom_frost": "Dubious Fridge",
   "block.antithetic.rotom_heat": "Dubious Oven",
   "block.antithetic.rotom_mow": "Dubious Mower",
-  "block.antithetic.rotom_wash": "Dubious Washer"
+  "block.antithetic.rotom_wash": "Dubious Washer",
+  "block.antithetic.meteor": "Meteor Chunk"
 }
