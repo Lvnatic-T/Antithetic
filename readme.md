@@ -1,7 +1,7 @@
 # How to install this Mod correctly!:
 
 1. **Download the latest version of the mod *(from releases, **not** code)***
-    - Note that it's Fabric only
+    - Note that it's Fabric only _(works fine with Sinytra Connector tho!)_
     - Put it in `\mods`
 
 
@@ -10,20 +10,13 @@
 
 3. **Navigate to `\saves\[YOURWORLDNAME]\datapacks\ATM Ultimate`**
    - Make sure AllTheMons Ultimate is **unzipped**
-   - Drag both the assets & data folders from the `OVERRIDE.zip` into ATM - Ultimate's base folder
+   - Drag both the data folders from the `OVERRIDE.zip` into ATM - Ultimate's base folder
        - *(Where assets, data, documentation etc. are)*
    - It will ask to `override 70 files`, click `yes`
    - If not, you made a mistake and need to undo or reinstall ATM - Ultimate
 
 
-4. **Navigate to `\resourcepacks\ATM Ultimate`**
-   - Make sure AllTheMons Ultimate is **unzipped**
-   - Drag both the assets & data folders from the `OVERRIDE.zip` into ATM - Ultimate's base folder
-     - *(Where assets, data, documentation etc. are)*
-   - It will ask to `override 70 files`, click `yes`
-   - If not, you made a mistake and need to undo or reinstall ATM - Ultimate
-
-_(You have to repeat step 3 & 4 *every time* you update ATM - Ultimate!)_
+PS: _(You have to repeat step 3 *every time* you update ATM - Ultimate!)_
 
 # What does this mod add?
 ### It adds and completely reworks Evolution/Form change items:
@@ -37,7 +30,6 @@ _(You have to repeat step 3 & 4 *every time* you update ATM - Ultimate!)_
 - *Prison Bottle for Hoopa*
 - *Gracidea for Shaymin*
 - *Ogerpons 3 Masks*
-- *Genesects Forms*
 - *Scrolls for Kubfu*
 
 ### A universal unevolve item called *DNA Splicerr*
@@ -61,13 +53,15 @@ _(You have to repeat step 3 & 4 *every time* you update ATM - Ultimate!)_
   - Shadow - Hold `Reins of Unity` + have Spectrier in Party
   - Base   - Hold `DNA Splicer`
 
+- **Dialga/Palkia/Giratina:**
+    - Form Changes   - Coming Soon! (ATMU method for now)
 
 - **Dialga/Palkia/Giratina:**
   - Origin Form      - Hold `Adamant/Lustrous/Griseous Orb`
   - Altered Form     - Hold `DNA Splicer`
 
     
-- **Enamorus Tornadus, Thundurus, Landorus:**
+- **Enamorus, Landorus, Thundurus, Tornadus:**
   - Form Changes    - Hold `Reveal Glass`
 
 
@@ -139,27 +133,19 @@ _(You have to repeat step 3 & 4 *every time* you update ATM - Ultimate!)_
 # Todo list/Known issues:
 - Ogerpon Teal Mask not added yet, using DNA Splicer for now
 - Lightbulb is a placeholder texture, I'll get sth better
-- Genesects Form Change is purely visual since Techno Blast doesn't change Typing
-- Arceus' Judgement doesn't change typing
 - If I make enough money through AllTheMegas & Rotom Appliances I'll hire someone to make the items have their buffs
-  - Cuz apparently that's way more complicated than I assumed
+  - Cuz apparently a lil more complicated than I assumed
 
 # How to uninstall/revert back to ATM Ultimate's evolutions:
 - Delete Antithetic from `/mods`
-- Delete ATM Ultimate from `\resourcepacks` and `\saves\[YOURWORLDNAME]\datapacks`
+- Delete ATM Ultimate from `\saves\[YOURWORLDNAME]\datapacks`
 - Re-download a fresh version of ATM Ultimate and install
 
 <details>
 <summary>Ignore this section</summary>
 
-## I SAID IGNORE! THIS INFORMATION IS OUTDATED AS OF NOW
-1. Download the latest version of the mod *(from releases, **not** code)*
-2. Delete your **ATM Ultimate** from
-    - `\saves\[YOURWORLDNAME]\datapacks`
-    - `\resourcepacks`
-3. Download [this](https://drive.google.com/file/d/15vftnMOyC2H-nnj9Atm0Ga_xPKKcfjy-/view?usp=drive_link) version of ATM Ultimate
-4. Put it back in:
-    - `\saves\[YOURWORLDNAME]\datapacks`
-    - `\resourcepacks`
+## I SAID IGNORE! 
+- Literally nothing to see here. 
+- Tho I like the urge to read everything
 
 </details>
