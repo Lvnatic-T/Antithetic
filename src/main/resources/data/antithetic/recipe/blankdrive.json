@@ -18,7 +18,7 @@
     "id": "antithetic:blankdrive",
     "components": {
       "minecraft:lore": [
-        "{\"color\":\"gray\",\"text\":\"A Fragment of technological Power\"}"
+        "{\"color\":\"gray\",\"text\":\"A Fragment of technological Power, reverts Genesect's 'Techno Blast' back to Normal\"}"
       ]
     }
   }

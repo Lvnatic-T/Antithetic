@@ -14,7 +14,7 @@
     "components": {
       "minecraft:item_name": "{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\": \"Douse Drive\"}],\"italic\":false,\"text\":\"\"}",
       "minecraft:lore": [
-        "{\"color\":\"gray\",\"text\":\"Changes Genesect's 'Techno Blast' to Water (Cosmetic only)\"}"
+        "{\"color\":\"gray\",\"text\":\"Changes Genesect's 'Techno Blast' to Water\"}"
       ]
     }
   }
