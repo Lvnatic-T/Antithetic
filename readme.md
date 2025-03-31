@@ -10,7 +10,7 @@
 
 3. **Navigate to `\saves\[YOURWORLDNAME]\datapacks\ATM Ultimate`**
    - Make sure AllTheMons Ultimate is **unzipped**
-   - Drag both the data folders from the `OVERRIDE.zip` into ATM - Ultimate's base folder
+   - Drag the data folder from the `OVERRIDE.zip` into ATM - Ultimate's base folder
        - *(Where assets, data, documentation etc. are)*
    - It will ask to `override 68 files`, click `yes`
    - If not, you made a mistake and need to undo or reinstall ATM - Ultimate
@@ -32,17 +32,17 @@ PS: _(You have to repeat step 3 *every time* you update ATM - Ultimate!)_
 - *Ogerpons 3 Masks*
 - *Scrolls for Kubfu*
 
-### A universal unevolve item called *DNA Splicerr*
+### A universal unevolve item called *DNA Splicer*
 - *Unmerges any Fusion (Kyurem, Necrozma, Calyrex etc.)*
 - *Undo Ogerpon's Form Change*
-- *Undo any Mega's Evolution*
+- *Undo any Mega Evolution*
 
 # Each evolution explained:
 
 <details>
 <summary>Click me to expand!</summary>
 
-***If a Pokémon is not listed here, it uses the ATM Ultimate way of evolving!***
+***If a Pokémon is not listed here, it uses the ATM - Ultimate evolution method!***
 
 - **Arceus:**
   - Form Changes   - Hold the respective `Plate`
@@ -53,7 +53,7 @@ PS: _(You have to repeat step 3 *every time* you update ATM - Ultimate!)_
   - Shadow - Hold `Reins of Unity` + have Spectrier in Party
   - Base   - Hold `DNA Splicer`
 
-- **Dialga/Palkia/Giratina:**
+- **Deoxys:**
     - Form Changes   - Coming Soon! (ATMU method for now)
 
 - **Dialga/Palkia/Giratina:**
@@ -114,7 +114,7 @@ PS: _(You have to repeat step 3 *every time* you update ATM - Ultimate!)_
   - Heat Appliance       - Right-click a `Dubious Oven` Rotom in Party
   - Mow Appliance        - Right-click a `Dubious Mower` with Rotom in Party
   - Wash Appliance       - Right-click a `Dubious Washer` with Rotom in Party
-  - Base                 - Use `Dubious Lightbulb` while in any Appliance
+  - Base                 - Use `Dubious bulb` while in any Appliance
 
 
 - **Shaymin:**
