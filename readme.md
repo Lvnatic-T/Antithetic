@@ -12,7 +12,7 @@
    - Make sure AllTheMons Ultimate is **unzipped**
    - Drag both the data folders from the `OVERRIDE.zip` into ATM - Ultimate's base folder
        - *(Where assets, data, documentation etc. are)*
-   - It will ask to `override 70 files`, click `yes`
+   - It will ask to `override 68 files`, click `yes`
    - If not, you made a mistake and need to undo or reinstall ATM - Ultimate
 
 
